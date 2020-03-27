@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f97329b33a424417322ef22d32030c0e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.1.aar\01c18128d656b19783907343e27bf4ce\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1398b0ade92b70fa46d2f9e5c1e554d7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cec011c4ab84c47e947f7ccbc3215230\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.1.aar\299f10bef9f6e7cf506a4a83edcd7e04\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.1.aar\f3c855be1b39e046fb9eb9d5a65c413e\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\65e1a1ba95c7f80445c131322132d8ce\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ba188875398cf65f4ccbbc155300eb35\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\19af5f921cd56d438b196b0039dfd76e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21dc7295cb71c4f5fb3f31c0905b26ae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4d523131cdc324140090125d3983192d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\ecaf42d533aaea836e0a36e6c3566070\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\17d3dfe535cc82c4f718ab277f5b1580\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:18:5-48
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:20:22-76
+application
+ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:22:5-37:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f97329b33a424417322ef22d32030c0e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f97329b33a424417322ef22d32030c0e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.1.aar\01c18128d656b19783907343e27bf4ce\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.1.aar\01c18128d656b19783907343e27bf4ce\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1398b0ade92b70fa46d2f9e5c1e554d7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1398b0ade92b70fa46d2f9e5c1e554d7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cec011c4ab84c47e947f7ccbc3215230\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cec011c4ab84c47e947f7ccbc3215230\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.1.aar\299f10bef9f6e7cf506a4a83edcd7e04\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.1.aar\299f10bef9f6e7cf506a4a83edcd7e04\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.1.aar\f3c855be1b39e046fb9eb9d5a65c413e\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.1.aar\f3c855be1b39e046fb9eb9d5a65c413e\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\65e1a1ba95c7f80445c131322132d8ce\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\65e1a1ba95c7f80445c131322132d8ce\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ba188875398cf65f4ccbbc155300eb35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ba188875398cf65f4ccbbc155300eb35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\19af5f921cd56d438b196b0039dfd76e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\19af5f921cd56d438b196b0039dfd76e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21dc7295cb71c4f5fb3f31c0905b26ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21dc7295cb71c4f5fb3f31c0905b26ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4d523131cdc324140090125d3983192d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4d523131cdc324140090125d3983192d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\ecaf42d533aaea836e0a36e6c3566070\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\ecaf42d533aaea836e0a36e6c3566070\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\17d3dfe535cc82c4f718ab277f5b1580\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\17d3dfe535cc82c4f718ab277f5b1580\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.walkmyandroid.MainActivity
+ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f97329b33a424417322ef22d32030c0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f97329b33a424417322ef22d32030c0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.1.aar\01c18128d656b19783907343e27bf4ce\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.1.aar\01c18128d656b19783907343e27bf4ce\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1398b0ade92b70fa46d2f9e5c1e554d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1398b0ade92b70fa46d2f9e5c1e554d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cec011c4ab84c47e947f7ccbc3215230\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cec011c4ab84c47e947f7ccbc3215230\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.1.aar\299f10bef9f6e7cf506a4a83edcd7e04\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.1.aar\299f10bef9f6e7cf506a4a83edcd7e04\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.1.aar\f3c855be1b39e046fb9eb9d5a65c413e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.1.aar\f3c855be1b39e046fb9eb9d5a65c413e\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\65e1a1ba95c7f80445c131322132d8ce\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\65e1a1ba95c7f80445c131322132d8ce\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ba188875398cf65f4ccbbc155300eb35\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ba188875398cf65f4ccbbc155300eb35\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\19af5f921cd56d438b196b0039dfd76e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\19af5f921cd56d438b196b0039dfd76e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21dc7295cb71c4f5fb3f31c0905b26ae\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21dc7295cb71c4f5fb3f31c0905b26ae\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4d523131cdc324140090125d3983192d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4d523131cdc324140090125d3983192d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\ecaf42d533aaea836e0a36e6c3566070\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\ecaf42d533aaea836e0a36e6c3566070\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\17d3dfe535cc82c4f718ab277f5b1580\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\17d3dfe535cc82c4f718ab277f5b1580\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 4\PAPB 2\project template\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1398b0ade92b70fa46d2f9e5c1e554d7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1398b0ade92b70fa46d2f9e5c1e554d7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cec011c4ab84c47e947f7ccbc3215230\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cec011c4ab84c47e947f7ccbc3215230\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\65e1a1ba95c7f80445c131322132d8ce\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\65e1a1ba95c7f80445c131322132d8ce\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ba188875398cf65f4ccbbc155300eb35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ba188875398cf65f4ccbbc155300eb35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\19af5f921cd56d438b196b0039dfd76e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\19af5f921cd56d438b196b0039dfd76e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21dc7295cb71c4f5fb3f31c0905b26ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21dc7295cb71c4f5fb3f31c0905b26ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4d523131cdc324140090125d3983192d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4d523131cdc324140090125d3983192d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\ecaf42d533aaea836e0a36e6c3566070\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\ecaf42d533aaea836e0a36e6c3566070\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3035caf307036f40c39ac535230035b0\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.1.aar\217aa62d6bfa7e7f12c39a07880ce6e7\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.1.aar\f3c855be1b39e046fb9eb9d5a65c413e\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.1.aar\f3c855be1b39e046fb9eb9d5a65c413e\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.1.aar\f3c855be1b39e046fb9eb9d5a65c413e\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\17d3dfe535cc82c4f718ab277f5b1580\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\17d3dfe535cc82c4f718ab277f5b1580\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rizal Mifta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\17d3dfe535cc82c4f718ab277f5b1580\AndroidManifest.xml:26:13-58
